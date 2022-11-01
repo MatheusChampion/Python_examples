@@ -1,2 +1,3 @@
 # Python_examples
-Small exercises with Pyhon
+
+Small Python exercises made during my Python's course in my college
